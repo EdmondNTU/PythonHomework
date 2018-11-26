@@ -34,9 +34,9 @@ def task_1():
     # `flake8 src/student/<your student ID>.py`
 
     # TODO: fix the syntax error for the following code
-    if true:
+    if True:
         sentence="Hello world"
-      print (sentence)
+        print (sentence)
 
     # End of TODO (do not change the code below)
     return True
@@ -53,6 +53,7 @@ def task_2(
 
     Python has many data types, including Boolean, String, Integer, Float,
     List, Dictionary, etc.
+
 
     You could use the function type() to see the data type:
 
