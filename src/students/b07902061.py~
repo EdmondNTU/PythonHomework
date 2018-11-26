@@ -38,7 +38,6 @@ def task_1():
     if True:
         sentence="Hello world"
         print (sentence)
-        print (sentence)
 
     # End of TODO (do not change the code below)
     return True
